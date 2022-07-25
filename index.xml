@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Loyola AI Club</title>
+    <link>/</link>
+    <description>Recent content on Loyola AI Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 24 Jul 2022 23:49:36 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 1st post</title>
+      <link>/projects/laic-website/</link>
+      <pubDate>Sun, 24 Jul 2022 23:49:36 -0500</pubDate>
+      
+      <guid>/projects/laic-website/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>/projects/kaggle-competition-hm/</link>
+      <pubDate>Sun, 24 Jul 2022 23:49:28 -0500</pubDate>
+      
+      <guid>/projects/kaggle-competition-hm/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 24 Jul 2022 23:40:13 -0500</pubDate>
+      
+      <guid>/about/</guid>
+      <description>The mission statement of the Loyola AI Club</description>
+    </item>
+    
+  </channel>
+</rss>
