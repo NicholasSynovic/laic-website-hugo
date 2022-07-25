@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://github.nsynovic.dev/laic-website-hugo/</loc>
     <lastmod>2022-07-24T23:49:36-05:00</lastmod>
   </url><url>
-    <loc>/projects/laic-website/</loc>
+    <loc>https://github.nsynovic.dev/laic-website-hugo/projects/laic-website/</loc>
     <lastmod>2022-07-24T23:49:36-05:00</lastmod>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>https://github.nsynovic.dev/laic-website-hugo/projects/</loc>
     <lastmod>2022-07-24T23:49:36-05:00</lastmod>
   </url><url>
-    <loc>/projects/kaggle-competition-hm/</loc>
+    <loc>https://github.nsynovic.dev/laic-website-hugo/projects/kaggle-competition-hm/</loc>
     <lastmod>2022-07-24T23:49:28-05:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://github.nsynovic.dev/laic-website-hugo/about/</loc>
     <lastmod>2022-07-24T23:40:13-05:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://github.nsynovic.dev/laic-website-hugo/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://github.nsynovic.dev/laic-website-hugo/tags/</loc>
   </url>
 </urlset>
